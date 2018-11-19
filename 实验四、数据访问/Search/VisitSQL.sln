@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VisitSQL", "VisitSQL\", "{D9019C7C-469F-4B18-9B21-45EBD38D1698}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51598"
+		Debug.AspNetCompiler.PhysicalPath = "VisitSQL\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51598\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51598"
+		Release.AspNetCompiler.PhysicalPath = "VisitSQL\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51598\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51598"
+		SlnRelativePath = "VisitSQL\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9019C7C-469F-4B18-9B21-45EBD38D1698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9019C7C-469F-4B18-9B21-45EBD38D1698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCF607C-E352-4DB4-A7B3-15EC99C4577E}
+	EndGlobalSection
+EndGlobal

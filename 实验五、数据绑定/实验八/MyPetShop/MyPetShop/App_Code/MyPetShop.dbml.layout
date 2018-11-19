@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MyPetShop">
+  <DataContextMoniker Name="/MyPetShopDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c49bd3cd-cce6-4656-b415-a8d44aaa317d" absoluteBounds="3.5, 2.375, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/MyPetShopDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f7e9ad0-5b32-4ec1-9872-f3bceaa028e3" absoluteBounds="3.515, 2.835, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9f13f2cd-c977-403c-9364-9d42259b1a92" absoluteBounds="1.625, 4.125, 2, 1.7220992024739581">
+      <DataClassMoniker Name="/MyPetShopDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="457e8bb0-1639-4e94-82db-94d0c2dca12c" absoluteBounds="1.6400000000000001, 4.585, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5254939d-9444-458e-84da-39da14aaa9d8" absoluteBounds="1.25, 0.75, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/MyPetShopDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5cd0f581-ea4b-4763-91df-aa5166518392" absoluteBounds="1.2650000000000001, 1.21, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d65a198b-9dc7-4d7b-8899-4cd7e811de01" absoluteBounds="5.875, 3.875, 2, 2.4612756347656251">
+      <DataClassMoniker Name="/MyPetShopDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19683e8e-7ccb-4952-93bf-524a6f8d965c" absoluteBounds="5.89, 4.335, 1.9700000000000002, 1.901275634765625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0a47358-debb-49bd-a121-0e6daf3a3f5d" absoluteBounds="5.125, 0.5, 2, 1.7220992024739581">
+      <DataClassMoniker Name="/MyPetShopDataContext/Profile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="113f0192-9c41-4462-9c99-6313eeefd0a0" absoluteBounds="5.14, 0.96, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
